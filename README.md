@@ -1,4 +1,4 @@
-# Library Management System
+# ✨Library Management System✨
 A simple Python program for managing a library with book and member functionalities.
 
 ## توضیحات پروژه:
